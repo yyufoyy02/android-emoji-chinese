@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android-emoji-chinese.iml" filepath="$PROJECT_DIR$/android-emoji-chinese.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emojichinese/emojichinese.iml" filepath="$PROJECT_DIR$/emojichinese/emojichinese.iml" />
+    </modules>
+  </component>
+</project>
