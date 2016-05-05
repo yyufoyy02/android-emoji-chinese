@@ -10,12 +10,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/emojichinese" />
+            <option value="$PROJECT_DIR$/emojitest" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/emojichinese" />
+            <option value="$PROJECT_DIR$/emojitest" />
           </set>
         </option>
       </GradleProjectSettings>

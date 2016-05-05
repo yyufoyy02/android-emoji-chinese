@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/android-emoji-chinese.iml" filepath="$PROJECT_DIR$/android-emoji-chinese.iml" />
       <module fileurl="file://$PROJECT_DIR$/emojichinese/emojichinese.iml" filepath="$PROJECT_DIR$/emojichinese/emojichinese.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emojitest/emojitest.iml" filepath="$PROJECT_DIR$/emojitest/emojitest.iml" />
     </modules>
   </component>
 </project>
